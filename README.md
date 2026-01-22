@@ -9,7 +9,6 @@
 
 ---
 
-```markdown
 # YiYiAi Management Core (益益AI 管理核心)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
