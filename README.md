@@ -2,13 +2,6 @@
 一个 7 x 24 小时 不抱怨的网站小AI客服
  **"YiYiAi Core (核心版)"**。
 
-### 建议的操作步骤：
-
-1. **修改 JS 文件**：在上传到 GitHub 的 `YiYiAi-manage.js` 版本中，删除底部的 `(function() { try { ... ui1.js ... } })();` 和 `f1.js` 的加载代码。
-2. **复制以下内容**：保存为 `README.md`。
-
----
-
 # YiYiAi Management Core (益益AI 管理核心)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
